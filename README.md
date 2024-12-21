@@ -2,7 +2,7 @@
 
 Welcome to my collection of Kaggle competition notebooks! In this repository, I share my solutions, insights, and techniques for tackling various real-world data science challenges through Kaggle competitions.
 
-## Overview
+## Overview 
 
 This repository contains notebooks for several Kaggle competitions I've participated in. The notebooks include detailed explanations, step-by-step approaches, and code implementations that showcase different machine learning techniques, data wrangling methods, and model optimization strategies.
 
