@@ -13,7 +13,7 @@ This repository contains notebooks for several Kaggle competitions I've particip
 - **Model Optimization**: Tuning models to achieve competitive results.
 - **Visualization**: Using data visualizations to uncover patterns and insights.
 
-## Notebooks
+## Notebooks 
 
 You can explore the following notebooks within this repository:
 
