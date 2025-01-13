@@ -1,4 +1,4 @@
-# Kaggle Competition Notebooks
+# Kaggle Competition Notebooks 
 
 Welcome to my collection of Kaggle competition notebooks! In this repository, I share my solutions, insights, and techniques for tackling various real-world data science challenges through Kaggle competitions.
 
